@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+venv/
+env/
+.env
+.venv
+*.zip
+invoices/
+*.pdf
+!Hexa RCM Self Invoices V1 (1) (2).pdf
+!hexa_logo.png
+temp/
+tmp/
+.DS_Store
+*.swp
+*.swo
