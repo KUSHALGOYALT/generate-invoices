@@ -76,6 +76,6 @@ Generates invoices and returns a ZIP file.
 - pypdf - PDF merging and manipulation
 - OpenPyXL - Excel file reading
 
-## License
 
-MIT
+
+
